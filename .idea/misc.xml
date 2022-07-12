@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/droid/AndroidStudioProjects/MultiModuleNav/Favorites/src/main/res/layout/favorite_fragment.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/droid/AndroidStudioProjects/MultiModuleNav/List/src/main/res/layout/list_fragment.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/droid/AndroidStudioProjects/MultiModuleNav/Settings/src/main/res/layout/settings_fragment.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/droid/AndroidStudioProjects/MultiModuleNav/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/droid/AndroidStudioProjects/MultiModuleNav/app/src/main/res/layout/main_fragment.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/droid/AndroidStudioProjects/MultiModuleNav/app/src/main/res/menu/main_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
